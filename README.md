@@ -1,4 +1,4 @@
-## Olá, sou Sam, estudante de TI e fã de Linux!
+## Olá, sou Sam, estudante de TI e entusiasta do código aberto!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Sam-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
