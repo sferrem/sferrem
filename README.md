@@ -15,14 +15,14 @@
   ##
  
 <div>
-  <a href = "mailto:ferreirasdemelo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <!-- <a href = "mailto:ferreirasdemelo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> -->
   <a href="https://www.linkedin.com/in/ferreira-de-melo-sam/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
 
 ##
 
-<div>
+<!--<div>
   <a href="https://github.com/sferrem">
     <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sferrem&layout=compact&langs_count=7&theme=dracula"/>
     <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=sferrem&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -30,7 +30,7 @@
 </div>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sferrem&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+ ![](https://github-profile-trophy.vercel.app/?username=sferrem&theme=radical&no-frame=false&no-bg=true&margin-w=4) -->
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=sferrem&limit=5&theme=dark&combine_all_yearly_contributions=true)
