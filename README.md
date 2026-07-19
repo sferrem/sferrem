@@ -1,20 +1,45 @@
-<div style="display: inline_block"><br>
-  
-  <img align="center" alt="Sam-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Sam-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Sam-mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Sam-bash" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
-  <img align="center" alt="Sam-sqlite" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg">
-  <!---<img align="center" alt="Sam-vim" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg"> -->
-  <img align="center" alt="Sam-linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-  <img align="center" alt="Sam-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<div align="center">
+
+```ascii
+███ ████  █████ ████   ███   ████   
+ █░░█░░░█ █░░░░░█░░░█ █ ░░█ █ ░░░░  
+ █░░████░░████░░████░░█████░ ███░░░ 
+ █░░█░░█░ █░░░░ █░░█░ █░░░█░░ ░░█   
+███░█░░░█░█████░█░░░█░█░░░█░████░░  
+ ░░░ ░░  ░ ░░░░░ ░░  ░ ░░  ░░░░░░ ░ 
+  ░░░ ░   ░ ░░░░░ ░   ░ ░   ░ ░░░░  
+                                                          
+```
+
 </div>
 
-##
+```bash
+┌──(ireras@void)-[~]
+└─$ whoami
+  ╰─ Sam
 
-<!--<div>
-  <a href="https://github.com/sferrem">
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sferrem&layout=compact&langs_count=7&theme=dracula"/>
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=sferrem&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  </a>
+┌──(ireras@void)-[~]
+└─$ █
+```
+
+---
+
+<div align="center">
+
+![](https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=openjdk&logoColor=ED8B00)
+![](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3572A5)
+![](https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=FCC624)
+![](https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=4479A1)
+![](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=F05032)
+
 </div>
+
+<!--
+---
+
+<div align="center">
+  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=0x03c1&hide_border=true&background=0d1117&ring=58a6ff&fire=1f6feb&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" />
+</div>
+
+---
+-->
